@@ -3,6 +3,7 @@
 #include <cstdio>
 #include <string>
 #include <thread>
+#include <cstring>
 
 // command-line parameters
 struct whisper_params {
